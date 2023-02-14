@@ -37,13 +37,13 @@ const NavBar = () => {
         </div>
         <button
           type="button"
-          className="btn btn-primary h-[54px] px-[24px] mx-[15px] border-none bg-[#04989E] w-[177px] text-[25px] rounded-[20px] z-20"
+          className="btn btn-primary h-[54px] px-[24px] mx-[15px] border-none bg-[#04989E] w-[177px] text-[25px] rounded-[20px] z-20 text-center py-auto"
         >
           التسجيل
         </button>
         <button
           type="button"
-          className="btn btn-outline-light h-[54px] px-[24px] mx-[15px] w-[202px] text-[25px] rounded-[20px] z-20"
+          className="btn btn-outline-light h-[54px] px-[24px] mx-[15px] w-[202px] text-[25px] rounded-[20px] z-20 text-center py-auto"
         >
           تسجيل الدخول
         </button>
