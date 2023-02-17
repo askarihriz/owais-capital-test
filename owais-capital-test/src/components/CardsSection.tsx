@@ -4,7 +4,7 @@ import { data } from "../data/cardData";
 
 const CardsSection = () => {
   return (
-    <div className="w-full h-[2852px] flex justify-start flex-col bg-[#F5F7F9] px-[50px]">
+    <div className="w-full h-auto flex justify-start flex-col bg-[#F5F7F9] px-[50px]">
       <button
         type="button"
         className="btn btn-primary mt-[33px] h-[113px] px-[24px] mx-[15px] border-none bg-[#EBEDEF] text-[#04989E] w-[433px] text-[45px] rounded-[37px] z-20 text-center py-auto self-center"
@@ -51,7 +51,7 @@ const CardsSection = () => {
           </button>
         </div>
       </div>
-      <div className="flex w-[1920px] gap-[60px] h-auto mt-[66px] flex-wrap items-center">
+      <div className="flex w-full gap-[60px] h-auto mt-[66px] flex-wrap justify-center items-center">
         {data.map((val, key) => (
           <InvestmentCards
             imageSrc={val.imageSrc}
@@ -62,7 +62,7 @@ const CardsSection = () => {
         ))}
       </div>
       <button
-        className="btn btn-outline-success ml-[30px] w-[287px] self-center mt-[107px] px-[90px] border-[#04989E] text-white border-[2px] py-[20px] text-[20px] bg-[#04989E] rounded-[11px]"
+        className="btn btn-outline-success mb-[165px] ml-[30px] w-[287px] self-center mt-[107px] px-[90px] border-[#04989E] text-white border-[2px] py-[20px] text-[20px] bg-[#04989E] rounded-[11px]"
         type="submit"
       >
         عرض المزيد
