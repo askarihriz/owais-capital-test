@@ -11,7 +11,7 @@ const CardsSection = () => {
       >
         الفرص الإستثمارية
       </button>
-      <p className="max-w-[1287px] h-auto text-[29px] text-[#BFCAD4] self-center mt-[30px]">
+      <p className="max-w-[1287px] h-auto text-[29px] text-[#9CA6AF] self-center mt-[30px]">
         من خلال منصة أويس المالية ، يمكن للمستثمرين استعراض الفرص الاستثمارية ،
         الاستثمار ، وانهاء الاجراءات القانونية عبر المنصة فوراً. استثمر الآن
         ابتداءً من 1000 ريال سعودي فقط . الشركات المدرجة على المنصة هي شركات تمت
@@ -52,7 +52,7 @@ const CardsSection = () => {
         </div>
       </div>
       <div className="flex w-full gap-[60px] h-auto mt-[66px] flex-wrap justify-center items-center">
-        {data.map((val, key) => (
+        {data.map((val) => (
           <InvestmentCards
             imageSrc={val.imageSrc}
             logoSrc={val.logoSrc}

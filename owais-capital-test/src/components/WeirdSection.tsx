@@ -5,7 +5,7 @@ const WeirdSection = () => {
     <div className="bg-[#F5F7F9] w-full h-auto flex justify-center pr-[70px] items-center">
       <div className="my-[134px] bg-[#03989E] rounded-r-[100px] px-[81px] py-[60px] flex flex-col justify-center items-end w-full">
         <button
-          className="btn btn-outline-success mb-[10px] w-[387px] h-[113px] px-[30px] border-[#04989E] text-[#00C2CB] border-[2px] text-[45px] bg-white rounded-[37px]"
+          className="btn btn-outline-success mb-[10px] w-[387px] h-[113px] px-[30px] border-[#04989E] text-[#00C2CB] text-[45px] bg-white rounded-[37px] border-none hover:bg-[#616161] hover:text-[#616161]"
           type="submit"
         >
           تحذير المخاطرة

@@ -1,6 +1,7 @@
 import React from "react";
 import CardsSection from "../components/CardsSection";
 import Carousel from "../components/Carousel";
+import Footer from "../components/Footer";
 import GreenSection from "../components/GreenSection";
 import MarketingSection from "../components/MarketingSection";
 import NavBar from "../components/NavBar";
@@ -21,6 +22,7 @@ export const Home = () => {
       <NewsSection />
       <MarketingSection />
       <WeirdSection />
+      <Footer />
     </>
   );
 };
