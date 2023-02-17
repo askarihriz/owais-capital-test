@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import MainPic from "../assets/MainPicture.png";
+import MainPic from "../../assets/Logos/MainPicture.png";
 
 const Carousel = () => {
   const [img, setImg] = useState([true, false, false]);

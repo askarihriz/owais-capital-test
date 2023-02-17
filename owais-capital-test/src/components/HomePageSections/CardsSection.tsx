@@ -1,6 +1,6 @@
 import React from "react";
-import InvestmentCards from "./InvestmentCards";
-import { data } from "../data/cardData";
+import InvestmentCards from "../Resuseable Components/InvestmentCards";
+import { data } from "../../data/cardData";
 
 const CardsSection = () => {
   return (

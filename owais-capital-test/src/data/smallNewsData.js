@@ -1,8 +1,8 @@
-import News1 from "../assets/smallNews1.png";
-import News2 from "../assets/smallNews2.png";
-import News3 from "../assets/smallNews3.png";
-import News4 from "../assets/smallNews4.png";
-import News5 from "../assets/smallNews5.png";
+import News1 from "../assets/NewsSections/smallNews1.png";
+import News2 from "../assets/NewsSections/smallNews2.png";
+import News3 from "../assets/NewsSections/smallNews3.png";
+import News4 from "../assets/NewsSections/smallNews4.png";
+import News5 from "../assets/NewsSections/smallNews5.png";
 
 export const smallNewsData = [
   {

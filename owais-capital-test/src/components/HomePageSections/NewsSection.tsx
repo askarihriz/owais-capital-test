@@ -1,8 +1,8 @@
 import React from "react";
-import { newsData } from "../data/newsData";
-import NewsCards from "./NewsCards";
-import SmallCards from "./SmallCards";
-import { smallNewsData } from "../data/smallNewsData";
+import { newsData } from "../../data/newsData";
+import NewsCards from "../Resuseable Components/NewsCards";
+import SmallCards from "../Resuseable Components/SmallCards";
+import { smallNewsData } from "../../data/smallNewsData";
 
 const NewsSection = () => {
   return (

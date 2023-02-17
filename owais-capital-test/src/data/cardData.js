@@ -1,15 +1,15 @@
-import pic1 from "../assets/CardPic1.png";
-import pic2 from "../assets/CardPic2.png";
-import pic3 from "../assets/CardPic3.png";
-import pic4 from "../assets/CardPic4.png";
-import pic5 from "../assets/CardPic5.png";
-import pic6 from "../assets/CardPic6.png";
-import smallPic1 from "../assets/smallLogo1.png";
-import smallPic2 from "../assets/smallLogo2.png";
-import smallPic3 from "../assets/smallLogo3.png";
-import smallPic4 from "../assets/smallLogo4.png";
-import smallPic5 from "../assets/smallLogo5.png";
-import smallPic6 from "../assets/smallLogo6.png";
+import pic1 from "../assets/InvestmentCards/CardPic1.png";
+import pic2 from "../assets/InvestmentCards/CardPic2.png";
+import pic3 from "../assets/InvestmentCards/CardPic3.png";
+import pic4 from "../assets/InvestmentCards/CardPic4.png";
+import pic5 from "../assets/InvestmentCards/CardPic5.png";
+import pic6 from "../assets/InvestmentCards/CardPic6.png";
+import smallPic1 from "../assets/InvestmentCards/smallLogo1.png";
+import smallPic2 from "../assets/InvestmentCards/smallLogo2.png";
+import smallPic3 from "../assets/InvestmentCards/smallLogo3.png";
+import smallPic4 from "../assets/InvestmentCards/smallLogo4.png";
+import smallPic5 from "../assets/InvestmentCards/smallLogo5.png";
+import smallPic6 from "../assets/InvestmentCards/smallLogo6.png";
 
 export const data = [
   {

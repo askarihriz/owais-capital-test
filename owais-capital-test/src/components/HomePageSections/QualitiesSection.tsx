@@ -1,6 +1,6 @@
 import React from "react";
-import MiniCards from "./MiniCards";
-import { smallData } from "../data/miniCardData";
+import MiniCards from "../Resuseable Components/MiniCards";
+import { smallData } from "../../data/miniCardData";
 
 const QualitiesSection = () => {
   return (

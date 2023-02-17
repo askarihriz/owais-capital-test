@@ -1,5 +1,5 @@
 import React from "react";
-import Bookmark from "../assets/Bookmark.png";
+import Bookmark from "../../assets/InvestmentCards/Bookmark.png";
 
 const InvestmentCards = (props: any) => {
   return (

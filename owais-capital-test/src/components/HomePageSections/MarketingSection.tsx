@@ -1,5 +1,5 @@
 import React from "react";
-import MarketingLogo from "../assets/MarketingLogo.png";
+import MarketingLogo from "../../assets/Logos/MarketingLogo.png";
 
 const MarketingSection = () => {
   return (

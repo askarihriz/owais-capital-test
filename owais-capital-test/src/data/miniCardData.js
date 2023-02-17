@@ -1,9 +1,9 @@
-import GreenIcon1 from "../assets/GreenIcon1.png";
-import GreenIcon2 from "../assets/GreenIcon2.png";
-import GreenIcon3 from "../assets/GreenIcon3.png";
-import GreenIcon4 from "../assets/GreenIcon4.png";
-import GreenIcon5 from "../assets/GreenIcon5.png";
-import GreenIcon6 from "../assets/GreenIcon6.png";
+import GreenIcon1 from "../assets/ServicesSection/GreenIcon1.png";
+import GreenIcon2 from "../assets/ServicesSection/GreenIcon2.png";
+import GreenIcon3 from "../assets/ServicesSection/GreenIcon3.png";
+import GreenIcon4 from "../assets/ServicesSection/GreenIcon4.png";
+import GreenIcon5 from "../assets/ServicesSection/GreenIcon5.png";
+import GreenIcon6 from "../assets/ServicesSection/GreenIcon6.png";
 
 export const smallData = [
   {

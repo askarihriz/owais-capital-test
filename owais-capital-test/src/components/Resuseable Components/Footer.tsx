@@ -1,9 +1,9 @@
 import React from "react";
-import Logo from "../assets/Logo.png";
-import Social1 from "../assets/Social1.png";
-import Social2 from "../assets/Social2.png";
-import Social3 from "../assets/Social3.png";
-import Social4 from "../assets/Social4.png";
+import Logo from "../../assets/Logos/Logo.png";
+import Social1 from "../../assets/Social/Social1.png";
+import Social2 from "../../assets/Social/Social2.png";
+import Social3 from "../../assets/Social/Social3.png";
+import Social4 from "../../assets/Social/Social4.png";
 
 const Footer = () => {
   return (

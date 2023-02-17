@@ -1,14 +1,14 @@
 import React from "react";
-import CardsSection from "../components/CardsSection";
-import Carousel from "../components/Carousel";
-import Footer from "../components/Footer";
-import GreenSection from "../components/GreenSection";
-import MarketingSection from "../components/MarketingSection";
-import NavBar from "../components/NavBar";
-import NewsSection from "../components/NewsSection";
-import PagesSection from "../components/PagesSection";
-import QualitiesSection from "../components/QualitiesSection";
-import WeirdSection from "../components/WeirdSection";
+import CardsSection from "../components/HomePageSections/CardsSection";
+import Carousel from "../components/Resuseable Components/Carousel";
+import Footer from "../components/Resuseable Components/Footer";
+import GreenSection from "../components/HomePageSections/GreenSection";
+import MarketingSection from "../components/HomePageSections/MarketingSection";
+import NavBar from "../components/Resuseable Components/NavBar";
+import NewsSection from "../components/HomePageSections/NewsSection";
+import PagesSection from "../components/HomePageSections/PagesSection";
+import QualitiesSection from "../components/HomePageSections/QualitiesSection";
+import WeirdSection from "../components/HomePageSections/WeirdSection";
 
 export const Home = () => {
   return (

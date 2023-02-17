@@ -1,5 +1,5 @@
 import React from "react";
-import EdgyCard from "./EdgyCard";
+import EdgyCard from "../Resuseable Components/EdgyCard";
 
 const PagesSection = () => {
   return (

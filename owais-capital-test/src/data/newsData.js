@@ -1,6 +1,6 @@
-import News1 from "../assets/News1.png";
-import News2 from "../assets/News2.png";
-import News3 from "../assets/News3.png";
+import News1 from "../assets/NewsSections/News1.png";
+import News2 from "../assets/NewsSections/News2.png";
+import News3 from "../assets/NewsSections/News3.png";
 
 export const newsData = [
   {
